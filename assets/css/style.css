@@ -1,0 +1,31 @@
+
+h1 {
+	font-size: 125px;	
+}
+
+h2 {
+	font-size: 60px;
+	font-weight: thin;
+}
+
+p {
+	font-size: 20px;
+	font-weight: thin;
+}
+
+body {
+    background-image: url('../images/wallpaper.png');
+    width: 100%;
+    position: right bottom;
+    top: 0;
+    background-color: #4eb2d4;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+div {
+	display: inline-block;
+}
+
